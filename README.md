@@ -6,11 +6,7 @@
     
   Link to invite Moonlight Sentinel here:  
     [https://discord.com/oauth2/authorize?client_id=616671744031326243&permissions=117824&scope=bot](https://discord.com/oauth2/authorize?client_id=616671744031326243&permissions=117824&scope=bot) 
-      
-  Top.gg link:  
-    
-  [https://top.gg/bot/616671744031326243](https://top.gg/bot/616671744031326243)
-      
+       
 ----------------------------------------------------------------
 
 ## Command list at a glance:
@@ -51,9 +47,19 @@
 Moonlight Sentinel is a community-driven bot! New features and improvements are decided by our users' feedback at our official Discord support server: [https://discord.gg/WAsWSTy](https://discord.gg/WAsWSTy)  
   
   
-----------------------------------------------------------------
+----------------------------------------------------------------  
   
-### Authors and Creators  
+## Help us reach more users by voting (free of charge and requires just a few clicks)
+        
+    
+  [https://top.gg/bot/616671744031326243](https://top.gg/bot/616671744031326243) (Approved and verified) 
+    
+  [https://discordbotlist.com/bots/moonlight-sentinel](https://discordbotlist.com/bots/moonlight-sentinel) (Approved and verified)
+    
+  [https://bots.ondiscord.xyz/bots/616671744031326243](https://bots.ondiscord.xyz/bots/616671744031326243) (Pending verification as of May. 31, 2020)  
+    
+  
+## Authors and Creators  
   
 #### Cyrus Chan  
 - [https://github.com/CyrusChan7](https://github.com/CyrusChan7)  
