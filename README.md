@@ -10,10 +10,12 @@
 ----------------------------------------------------------------
 
 ## Command list at a glance:
-`*avatar`  - To download another user's profile picture.  
+`*avatar`  - Download another user's profile picture.  
   
   
-`*convert`  - Real-time currency exchange rates between two real-world currencies.
+`*convert`  - Real-time currency exchange rates between two real-world currencies.  
+  
+`*convert2` - Same as `*convert` but with much more real-world currency support. `*convert` is the more accurate out of the two.
 
     
 `*coronavirus` - Displays real-time COVID-19 statistics.
@@ -21,21 +23,37 @@
 
 `*ctf` - Celsius to Fahrenheit temperature conversion.
 
-`*ftc` - Fahrenheit to Celsius temperature conversion.
+`*ftc` - Fahrenheit to Celsius temperature conversion.  
+  
+`*help` - Fun fact - You were probably directly to this page because of this command.
 
 
 `*id` - Displays the official Discord-recognized server ID, channel ID, and user ID.
 
-`*lyrics` - Displays song lyrics of any English song on the fly.
+`*lyrics` - Displays song lyrics of any English song.  
+  
+`*ping` - Displays Moonlight Sentinel's ping.
 
-`*read_image` - Japanese text on image and want to read what it says in English? No problem.
+`*read_image` - Japanese text on image and want to read what the text says in English? No problem.
 
 
 `*translate` - Translates from one language to another. Over 100 languages supported.  
   
 `*filetype` - Forgot what an .exe file is? Or wish to learn more about over 10,000 of file extensions found on Windows, MacOS, Linux, iOS, Android, or other IoT devices? Use this command.  
   
-`*time` - Get the current time of a major city around the world.
+`*time` - Get the current time of any major city around the world.  
+  
+`*vote` - Displays links where users can vote for Moonlight Sentinel.  
+  
+## Commands related to Guild Wars 2 (Initially never planned to make it related to any game but it made it easier for me to communicate within my own personal circles)
+
+`*wiki` - Search the GW2 wiki.  
+  
+`*dailies` (BETA) - Keep track of your GW2 dailies.
+
+`*finished` (BETA) - Type `*dailies` to get started. Use this command when you have finished a daily and want Moonlight Sentinel to mark it as completed and auto reset back to incomplete every 00:00 UTC.
+
+`*unfinish` (BETA) - The command opposite of `*finished`.
   
 ----------------------------------------------------------------  
   
