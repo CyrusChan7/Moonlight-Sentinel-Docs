@@ -23,31 +23,33 @@
 
 `*ctf` - Celsius to Fahrenheit temperature conversion.  
   
-`*dice` - Roll a 6-sided fair die.
+`*dice` - Roll a 6-sided fair die.  
+  
+`*filetype` - Forgot what an .exe file is? Or wish to learn more about over 10,000 of file extensions found on Windows, MacOS, Linux, iOS, Android, or other IoT devices? Use this command. 
 
 `*ftc` - Fahrenheit to Celsius temperature conversion.  
   
+  
 `*help` - Fun fact - You were probably redirected to this page because of this command.  
   
-`*math` - Forgot your calculator and need to calculate a mathematical expression? This command has your back. (Note for other devs: It doesn't use eval() but rather regex so don't try breaking my host machine - it won't work :))
-
-
-`*id` - Display the official Discord-recognized server ID, channel ID, and user ID.
-
+`*id` - Display the official Discord-recognized server ID, channel ID, and user ID.  
+  
 `*lyrics` - Display song lyrics of any English song.  
+  
+`*math` - Forgot your calculator and need to calculate a mathematical expression? This command has your back. (Note for other devs: It doesn't use eval() but rather regex so don't try breaking my host machine - it won't work :))  
+  
   
 `*ping` - Display Moonlight Sentinel's ping with the host.
 
-`*read_image` - Japanese text on image and want to read what the text says in English? No problem.
+`*read_image` - Japanese text on image and want to read what the text says in English? No problem.  
+  
+`*time` - Display the current time of any major city around the world. 
 
 
 `*translate` - Translate from one language to another. Over 100 languages supported.  
   
-`*translate_help` - Display all the supported languages of `*translate`.
-  
-`*filetype` - Forgot what an .exe file is? Or wish to learn more about over 10,000 of file extensions found on Windows, MacOS, Linux, iOS, Android, or other IoT devices? Use this command.  
-  
-`*time` - Display the current time of any major city around the world.  
+`*translate_help` - Display all the supported languages of `*translate`.   
+   
   
 `*vote` - Display links where users can vote for Moonlight Sentinel.  
   
