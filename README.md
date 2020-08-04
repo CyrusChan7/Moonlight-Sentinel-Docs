@@ -18,36 +18,46 @@
 `*convert2` - Same as `*convert` but with much more real-world currency support. `*convert` is the more accurate out of the two.
 
     
-`*coronavirus` - Displays real-time COVID-19 statistics.
+`*coronavirus` - Display real-time COVID-19 statistics.
 
 
-`*ctf` - Celsius to Fahrenheit temperature conversion.
+`*ctf` - Celsius to Fahrenheit temperature conversion.  
+  
+`*dice` - Roll a 6-sided fair die.
 
 `*ftc` - Fahrenheit to Celsius temperature conversion.  
   
-`*help` - Fun fact - You were probably directly to this page because of this command.
-
-
-`*id` - Displays the official Discord-recognized server ID, channel ID, and user ID.
-
-`*lyrics` - Displays song lyrics of any English song.  
+`*help` - Fun fact - You were probably redirected to this page because of this command.  
   
-`*ping` - Displays Moonlight Sentinel's ping.
+`*math` - Forgot your calculator and need to calculate a mathematical expression? This command has your back. (Note for other devs: It doesn't use eval() but rather regex so don't try breaking my host machine - it won't work :))
+
+
+`*id` - Display the official Discord-recognized server ID, channel ID, and user ID.
+
+`*lyrics` - Display song lyrics of any English song.  
+  
+`*ping` - Display Moonlight Sentinel's ping with the host.
 
 `*read_image` - Japanese text on image and want to read what the text says in English? No problem.
 
 
-`*translate` - Translates from one language to another. Over 100 languages supported.  
+`*translate` - Translate from one language to another. Over 100 languages supported.  
+  
+`*translate_help` - Display all the supported languages of `*translate`.
   
 `*filetype` - Forgot what an .exe file is? Or wish to learn more about over 10,000 of file extensions found on Windows, MacOS, Linux, iOS, Android, or other IoT devices? Use this command.  
   
-`*time` - Get the current time of any major city around the world.  
+`*time` - Display the current time of any major city around the world.  
   
-`*vote` - Displays links where users can vote for Moonlight Sentinel.  
+`*vote` - Display links where users can vote for Moonlight Sentinel.  
   
 ## Commands related to Guild Wars 2 (Initially never planned to make it related to any game but it made it easier for me to communicate within my own personal circles)
 
 `*wiki` - Search the GW2 wiki.  
+  
+`*next` - Display the next GW2 update based on the official GW2 API endpoint. Guaranteed accuracy of forecasts up to 1-2 months.  
+  
+`*gw2links` - Links that would normally be bookmarked in the browser. Now brought to life in Discord.
   
 `*dailies` (BETA) - Keep track of your GW2 dailies.
 
