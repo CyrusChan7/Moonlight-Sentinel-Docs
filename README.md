@@ -1,9 +1,6 @@
 # Text translation, currency conversion, unit conversion, music lyrics, COVID-19 statistics. This bot has it all, all live-time and with 0 setup.  
   
     
-----------------------------------------------------------------------------------  
-<ins>**As of September 2020 I will be going back to university to complete my bachelor's degree in Computer Science (2 years left, very excited!😅). Thus, development of new features for Moonlight Sentinel will be extremely slow if not halted until December 2020. However, bug fixes and maintenance will still occur if there's a demand for a certain command or feature to be intact. I will still be on Github often as it is my personal choice of version control so feel free to raise any issues that you find here on this Github repository; or join the Moonlight Sentinel's official Discord server, link is below.**</ins>
-    
 ----------------------------------------------------------------------------------
 
 **Our vision is that bots should be instantly ready you moment you invite them and that features should be useful, reliable, and original.** Whenever users type a `*command name`, they will always know that the output is correct without the need to ever double-check. Because we the developers do the heavy work.  
@@ -105,9 +102,6 @@ Moonlight Sentinel is a community-driven bot! New features and improvements are 
   [https://bots.ondiscord.xyz/bots/616671744031326243](https://bots.ondiscord.xyz/bots/616671744031326243) (Pending verification as of May. 31, 2020)  
     
 ----------------------------------------------------------------------------------  
-<ins>**As of September 2020 I will be going back to university to complete my bachelor's degree in Computer Science (2 years left, very excited!😅). Thus, development of new features for Moonlight Sentinel will be extremely slow if not halted until December 2020. However, bug fixes and maintenance will still occur if there's a demand for a certain command or feature to be intact. I will still be on Github often as it is my personal choice of version control so feel free to raise any issues that you find here on this Github repository; or join the Moonlight Sentinel's official Discord server, link is above.**</ins>
-    
-----------------------------------------------------------------------------------
     
   
 ## Authors and Creators  
