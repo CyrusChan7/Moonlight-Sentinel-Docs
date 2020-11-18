@@ -10,7 +10,7 @@
   Link to invite Moonlight Sentinel here:  
     [https://discord.com/oauth2/authorize?client_id=616671744031326243&permissions=117824&scope=bot](https://discord.com/oauth2/authorize?client_id=616671744031326243&permissions=117824&scope=bot) 
       
-**New (Aug. 17, 2020):** *Moonlight Sentinel now records all error messages to an industrial-level database. Users of this bot can expect bugs to be fixed automatically and without doing anything on their part.*
+~~**New (Aug. 17, 2020):** *Moonlight Sentinel now records all error messages to an industrial-level database. Users of this bot can expect bugs to be fixed automatically and without doing anything on their part.*~~   (Temporarily disabled as of Nov. 17, 2020 [should have done it way sooner to be honest] as I do not have time to sift through the data)
        
 ----------------------------------------------------------------
 
@@ -76,9 +76,9 @@
 
 ## Administrator-only commands:  
   
-`*retrieve` - Moonlight Sentinel bot now records all error messages to a industrial-level database with 100.00% uptime (since Aug. 17, 2020), admins may use this command to view logs and fix bugs.  
+~~`*retrieve` - Moonlight Sentinel bot now records all error messages to a industrial-level database with 100.00% uptime (since Aug. 17, 2020), admins may use this command to view logs and fix bugs.~~ Temporarily disabled until further notice.
   
-`*clean` - Use this to erase a specific collection inside the database to free up space. This action is permanent and cannot be undone.    
+~~`*clean` - Use this to erase a specific collection inside the database to free up space. This action is permanent and cannot be undone.~~ Temporarily disabled until further notice.
   
 ----------------------------------------------------------------  
   
